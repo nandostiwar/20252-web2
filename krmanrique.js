@@ -1,2 +1,4 @@
-estudiante = "Mi nombre es Kevin Manrique Sanchez"
-console.log(estudiante)
+a = 15
+b = 69
+c = a+b
+console.log("La suma es: " , c)
